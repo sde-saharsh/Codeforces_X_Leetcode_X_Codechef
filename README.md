@@ -34,6 +34,7 @@ Hello
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
@@ -43,4 +44,9 @@ Hello
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
