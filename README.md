@@ -7,6 +7,7 @@ Hello
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0342-power-of-four) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,8 +46,13 @@ Hello
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
