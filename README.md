@@ -21,6 +21,7 @@ Hello
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0216-combination-sum-iii) |
@@ -41,6 +42,7 @@ Hello
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,8 @@ Hello
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
