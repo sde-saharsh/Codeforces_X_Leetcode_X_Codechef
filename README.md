@@ -27,6 +27,7 @@ Hello
 | [0090-subsets-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0216-combination-sum-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0641-design-circular-deque) |
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -64,4 +65,16 @@ Hello
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0036-valid-sudoku) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0641-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
