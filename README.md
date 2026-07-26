@@ -7,6 +7,7 @@ Hello
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
@@ -25,10 +26,12 @@ Hello
 | [0078-subsets](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0216-combination-sum-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
 ## Backtracking
 |  |
