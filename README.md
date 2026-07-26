@@ -77,4 +77,20 @@ Hello
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0641-design-circular-deque) |
+## Tree
+|  |
+| ------- |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 <!---LeetCode Topics End-->
