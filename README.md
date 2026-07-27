@@ -29,11 +29,13 @@ Hello
 | [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0641-design-circular-deque) |
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,4 +109,8 @@ Hello
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2685-count-the-number-of-complete-components) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
