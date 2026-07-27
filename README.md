@@ -30,6 +30,7 @@ Hello
 | [0641-design-circular-deque](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0641-design-circular-deque) |
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1765-map-of-highest-peak](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1765-map-of-highest-peak) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Hello
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0036-valid-sudoku) |
+| [1765-map-of-highest-peak](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1765-map-of-highest-peak) |
 ## Linked List
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Hello
 |  |
 | ------- |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1765-map-of-highest-peak](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1765-map-of-highest-peak) |
 | [2685-count-the-number-of-complete-components](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
