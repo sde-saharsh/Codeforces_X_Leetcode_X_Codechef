@@ -88,6 +88,7 @@ Hello
 | [0100-same-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0100-same-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -96,6 +97,7 @@ Hello
 | [0100-same-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0100-same-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2685-count-the-number-of-complete-components) |
@@ -111,6 +113,7 @@ Hello
 | ------- |
 | [0100-same-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0100-same-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Union-Find
