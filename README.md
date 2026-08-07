@@ -16,6 +16,7 @@ Hello
 | [0078-subsets](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0342-power-of-four) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Hello
 | [0090-subsets-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0216-combination-sum-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Hello
 | [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
