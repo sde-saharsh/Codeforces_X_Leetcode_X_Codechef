@@ -50,12 +50,14 @@ Hello
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0036-valid-sudoku) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
