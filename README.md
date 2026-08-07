@@ -87,6 +87,7 @@ Hello
 | ------- |
 | [0100-same-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0100-same-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0965-univalued-binary-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0965-univalued-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -96,6 +97,7 @@ Hello
 | ------- |
 | [0100-same-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0100-same-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0965-univalued-binary-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0965-univalued-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -105,6 +107,7 @@ Hello
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0100-same-tree) |
+| [0965-univalued-binary-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1765-map-of-highest-peak](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1765-map-of-highest-peak) |
 | [2685-count-the-number-of-complete-components](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2685-count-the-number-of-complete-components) |
@@ -112,6 +115,7 @@ Hello
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0100-same-tree) |
+| [0965-univalued-binary-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0965-univalued-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
