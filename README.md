@@ -8,6 +8,7 @@ Hello
 | ------- |
 | [0342-power-of-four](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@ Hello
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0131-palindrome-partitioning) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Hello
 |  |
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
