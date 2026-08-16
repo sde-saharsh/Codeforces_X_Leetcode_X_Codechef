@@ -8,6 +8,7 @@ Hello
 | ------- |
 | [0342-power-of-four](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
+| [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -33,6 +34,7 @@ Hello
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1765-map-of-highest-peak) |
+| [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -147,4 +149,28 @@ Hello
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
