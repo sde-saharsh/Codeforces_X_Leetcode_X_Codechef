@@ -32,6 +32,7 @@ Hello
 | [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0641-design-circular-deque) |
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
+| [1329-sort-the-matrix-diagonally](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1329-sort-the-matrix-diagonally) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1765-map-of-highest-peak) |
 | [2029-stone-game-ix](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/2029-stone-game-ix) |
@@ -41,6 +42,7 @@ Hello
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1288-remove-covered-intervals) |
+| [1329-sort-the-matrix-diagonally](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1329-sort-the-matrix-diagonally) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -80,6 +82,7 @@ Hello
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/0036-valid-sudoku) |
+| [1329-sort-the-matrix-diagonally](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1329-sort-the-matrix-diagonally) |
 | [1765-map-of-highest-peak](https://github.com/sde-saharsh/Codeforces_X_Leetcode_X_Codechef/tree/master/1765-map-of-highest-peak) |
 ## Linked List
 |  |
